@@ -1,6 +1,6 @@
 # to-do-list
 
-> Uma aplicação de listas de coisas a fazer
+> Uma aplicação de lista de coisas a fazer
 
 ## Tecnologias usadas
 - html
